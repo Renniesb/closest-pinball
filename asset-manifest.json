@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/closest-pinball/static/css/main.b13ab6ea.css",
-    "main.js": "/closest-pinball/static/js/main.1a1a5f4b.js",
+    "main.js": "/closest-pinball/static/js/main.2a8d25b6.js",
     "static/js/787.aa873b38.chunk.js": "/closest-pinball/static/js/787.aa873b38.chunk.js",
     "static/media/pinball.svg": "/closest-pinball/static/media/pinball.b7364b1048d6409693f7c3eea7415ae4.svg",
     "index.html": "/closest-pinball/index.html",
     "main.b13ab6ea.css.map": "/closest-pinball/static/css/main.b13ab6ea.css.map",
-    "main.1a1a5f4b.js.map": "/closest-pinball/static/js/main.1a1a5f4b.js.map",
+    "main.2a8d25b6.js.map": "/closest-pinball/static/js/main.2a8d25b6.js.map",
     "787.aa873b38.chunk.js.map": "/closest-pinball/static/js/787.aa873b38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b13ab6ea.css",
-    "static/js/main.1a1a5f4b.js"
+    "static/js/main.2a8d25b6.js"
   ]
 }
