@@ -1,3 +1,15 @@
+#Pinball Locations Finder
+
+The user can search for the closest pinball locations using the search bar. 
+
+To find a location near you make sure geolocation is enabled and when the near me button becomes enabled press near me to automatically fill in the latitude and longitude coordinates. Then press search
+
+It is also possible to manually type in the latitude and longitude of your location. To do so, you can enter in the latitude and longitude coordinates and then press search to find the closest pinball machine locations. 
+
+Press clear to clear the coordinates and enter new coordinates.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
