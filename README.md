@@ -1,6 +1,8 @@
 # Pinball Locations Finder
 
-The user can search for the closest pinball locations using the search bar. 
+Run the app at https://renniesb.github.io/closest-pinball/
+
+You can search for the closest pinball locations using the search bar. 
 
 To find a location near you, make sure geolocation is enabled and when the "near me" button becomes enabled press "near me" to automatically fill in the latitude and longitude coordinates. Then press search
 
