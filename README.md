@@ -1,4 +1,4 @@
-#Pinball Locations Finder
+# Pinball Locations Finder
 
 The user can search for the closest pinball locations using the search bar. 
 
